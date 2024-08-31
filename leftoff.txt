@@ -1,0 +1,3 @@
+Leftoff:
+
+- linking the steam_api dll file to my solution (steamworks api overview guide)
