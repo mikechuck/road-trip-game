@@ -39,6 +39,14 @@
 				"IOS",
 				"TVOS"
 			]
+		},
+		{
+			"Name": "OnlineServicesNull",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
 		}
 	]
 }
