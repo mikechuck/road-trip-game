@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\RoadTripGame.uproject" -game -ResX=800 -ResY=900 -Windowed -log

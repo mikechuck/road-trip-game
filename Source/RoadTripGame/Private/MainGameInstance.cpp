@@ -17,13 +17,27 @@ void UMainGameInstance::Init()
 		if (SessionInterface.IsValid())
 		{
 			// Bind delegates here
+			SessionInterface->OnCreateSessionCompleteDelegates.AddUObject(this, &UMainGameInstance::OnCreateSessionComplete);
 		}
 	}
+}
+
+void UMainGameInstance::OnCreateSessionComplete(FName ServerName, bool Succeeded)
+{
+	UE_LOG(LogTemp, Warning, TEXT("Create session completed: %d"), Succeeded);
 }
 
 void UMainGameInstance::CreateSession()
 {
 	UE_LOG(LogTemp, Warning, TEXT("Creating session from Game Instance"));
+
+	FOnlineSessionSettings SessionSettings;
+	SessionSettings.bAllowJoinInProgress = true;
+	SessionSettings.bIsDedicated = false;
+	SessionSettings.bIsLANMatch = true;
+	SessionSettings.bShouldAdvertise = true;
+	SessionSettings.NumPublicConnections = 5;
+	SessionInterface->CreateSession(0, FName("My Session"), SessionSettings);
 }
 
 void UMainGameInstance::JoinSession()

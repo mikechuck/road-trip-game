@@ -25,6 +25,8 @@ protected:
 
 	virtual void Init() override;
 
+	virtual void OnCreateSessionComplete(FName ServerName, bool Succeeded);
+
 	UFUNCTION(BlueprintCallable)
 	void CreateSession();
 
