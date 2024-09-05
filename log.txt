@@ -1,0 +1,213 @@
+Rebuild started at 8:46 AM...
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Slack\EpicGames.Slack.csproj (in 103 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\ScriptPlugin\Source\ScriptGeneratorUbtPlugin\ScriptGeneratorUbtPlugin.ubtplugin.csproj (in 109 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Core\EpicGames.Core.csproj (in 115 ms).
+1>------ Rebuild All started: Project: EpicGames.Tracing, Configuration: Development Any CPU ------
+2>------ Rebuild All started: Project: EpicGames.Slack, Configuration: Development Any CPU ------
+3>------ Rebuild All started: Project: EpicGames.Oodle, Configuration: Development Any CPU ------
+4>------ Rebuild All started: Project: EpicGames.OIDC, Configuration: Development Any CPU ------
+5>------ Rebuild All started: Project: EpicGames.MongoDB, Configuration: Development Any CPU ------
+6>------ Rebuild All started: Project: EpicGames.Core, Configuration: Development Any CPU ------
+7>------ Rebuild All started: Project: ScriptGeneratorUbtPlugin.ubtplugin, Configuration: Development Any CPU ------
+8>------ Skipped Rebuild All: Project: UE5, Configuration: BuiltWithUnrealBuildTool Win64 ------
+8>Project not selected to build for this solution configuration 
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\EpicGames.Perforce.csproj (in 6 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Build\EpicGames.Build.csproj (in 134 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Redis\EpicGames.Redis.csproj (in 22 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Serialization\EpicGames.Serialization.csproj (in 142 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.BuildGraph\EpicGames.BuildGraph.csproj (in 149 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.OIDC\EpicGames.OIDC.csproj (in 8 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Horde\EpicGames.Horde.csproj (in 181 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj (in 188 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5Rules\UE5Rules.csproj (in 188 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Apple\Apple.Automation.csproj (in 189 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\BuildGraph\BuildGraph.Automation.csproj (in 189 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5ProgramRules\UE5ProgramRules.csproj (in 189 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\AutomationUtils\AutomationUtils.Automation.csproj (in 80 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Localization\Localization.Automation.csproj (in 189 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Android\Android.Automation.csproj (in 189 ms).
+Restored C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\BuildRulesProjects\RoadTripGameModuleRules\RoadTripGameModuleRules.csproj (in 189 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Mac\Mac.Automation.csproj (in 22 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\XLocLocalization\XLocLocalization.Automation.csproj (in 51 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\SmartlingLocalization\SmartlingLocalization.Automation.csproj (in 46 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\AutomationTool.csproj (in 194 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Tracing\EpicGames.Tracing.csproj (in 1 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Managed\EpicGames.Perforce.Managed.csproj (in 5 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.UHT\EpicGames.UHT.csproj (in 102 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Box\EpicGames.Box.csproj (in 3 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Jupiter\EpicGames.Jupiter.csproj (in 3 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MongoDB\EpicGames.MongoDB.csproj (in 19 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MsBuild\EpicGames.MsBuild.csproj (in 123 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.IoHash\EpicGames.IoHash.csproj (in 4 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\CrowdinLocalization\CrowdinLocalization.Automation.csproj (in 121 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\OneSkyLocalization\OneSkyLocalization.Automation.csproj (in 126 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Scripts\AutomationScripts.Automation.csproj (in 128 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\LowLevelTests\LowLevelTests.Automation.csproj (in 136 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.AspNet\EpicGames.AspNet.csproj (in 4 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\TVOS\TVOS.Automation.csproj (in 126 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\IOS\IOS.Automation.csproj (in 127 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Turnkey\Turnkey.Automation.csproj (in 134 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Gauntlet\Gauntlet.Automation.csproj (in 133 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Linux\Linux.Automation.csproj (in 28 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\CookedEditor\CookedEditor.Automation.csproj (in 142 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Oodle\EpicGames.Oodle.csproj (in 16 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\SteamDeck\SteamDeck.Automation.csproj (in 22 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Win\Win.Automation.csproj (in 25 ms).
+Restored C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Fixture\EpicGames.Perforce.Fixture.csproj (in 170 ms).
+4>EpicGames.OIDC -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.OIDC\bin\Development\net6.0\EpicGames.OIDC.dll
+3>EpicGames.Oodle -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Oodle\bin\Development\net6.0\EpicGames.Oodle.dll
+5>EpicGames.MongoDB -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MongoDB\bin\Development\net6.0\EpicGames.MongoDB.dll
+2>EpicGames.Slack -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Slack\bin\Development\net6.0\EpicGames.Slack.dll
+7>ScriptGeneratorUbtPlugin.ubtplugin -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\Plugins\ScriptGeneratorUbtPlugin\ScriptGeneratorUbtPlugin.dll
+6>EpicGames.Core -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Core\bin\Development\net6.0\EpicGames.Core.dll
+9>------ Rebuild All started: Project: EpicGames.Perforce, Configuration: Development Any CPU ------
+10>------ Rebuild All started: Project: EpicGames.MsBuild, Configuration: Development Any CPU ------
+11>------ Rebuild All started: Project: EpicGames.Jupiter, Configuration: Development Any CPU ------
+12>------ Rebuild All started: Project: EpicGames.IoHash, Configuration: Development Any CPU ------
+13>------ Rebuild All started: Project: EpicGames.Box, Configuration: Development Any CPU ------
+12>EpicGames.IoHash -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.IoHash\bin\Development\net6.0\EpicGames.IoHash.dll
+14>------ Rebuild All started: Project: EpicGames.Serialization, Configuration: Development Any CPU ------
+13>EpicGames.Box -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Box\bin\Development\net6.0\EpicGames.Box.dll
+1>EpicGames.Tracing -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Tracing\bin\Development\net6.0\EpicGames.Tracing.dll
+11>EpicGames.Jupiter -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Jupiter\bin\Development\net6.0\EpicGames.Jupiter.dll
+14>EpicGames.Serialization -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Serialization\bin\Development\net6.0\EpicGames.Serialization.dll
+15>------ Rebuild All started: Project: EpicGames.Redis, Configuration: Development Any CPU ------
+16>------ Rebuild All started: Project: EpicGames.Horde, Configuration: Development Any CPU ------
+17>------ Rebuild All started: Project: EpicGames.BuildGraph, Configuration: Development Any CPU ------
+18>------ Rebuild All started: Project: EpicGames.AspNet, Configuration: Development Any CPU ------
+9>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\PerforceConnection.cs(452,42,452,123): warning CA1849: 'IPerforceConnection.Command(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, string?, bool)' synchronously blocks. Await 'IPerforceConnection.CommandAsync<T>(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, CancellationToken)' instead. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1849)
+9>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\PerforceConnection.cs(473,42,473,117): warning CA1849: 'IPerforceConnection.Command(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, string?, bool)' synchronously blocks. Await 'IPerforceConnection.CommandAsync<T>(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, CancellationToken)' instead. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1849)
+9>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\PerforceConnection.cs(495,44,495,110): warning CA1849: 'IPerforceConnection.Command(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, string?, bool)' synchronously blocks. Await 'IPerforceConnection.CommandAsync<T>(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, CancellationToken)' instead. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1849)
+9>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\PerforceConnection.cs(2403,44,2403,111): warning CA1849: 'IPerforceConnection.Command(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, string?, bool)' synchronously blocks. Await 'IPerforceConnection.CommandAsync<T>(string, IReadOnlyList<string>, IReadOnlyList<string>?, byte[]?, CancellationToken)' instead. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1849)
+15>EpicGames.Redis -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Redis\bin\Development\net6.0\EpicGames.Redis.dll
+9>EpicGames.Perforce -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce\bin\Development\net6.0\EpicGames.Perforce.dll
+9>Done building project "EpicGames.Perforce.csproj".
+19>------ Rebuild All started: Project: EpicGames.Perforce.Managed, Configuration: Development Any CPU ------
+17>EpicGames.BuildGraph -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.BuildGraph\bin\Development\net6.0\EpicGames.BuildGraph.dll
+16>EpicGames.Horde -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Horde\bin\Development\net6.0\EpicGames.Horde.dll
+18>EpicGames.AspNet -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.AspNet\bin\Development\net6.0\EpicGames.AspNet.dll
+10>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MsBuild\CsProjBuilder.cs(249,8,249,20): warning CA2200: Re-throwing caught exception changes stack information (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2200)
+10>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MsBuild\CsProjBuilder.cs(305,10,305,72): warning CA2249: Use 'string.Contains' instead of 'string.IndexOf' to improve readability (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2249)
+10>EpicGames.MsBuild -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.MsBuild\bin\Development\net6.0\EpicGames.MsBuild.dll
+10>Done building project "EpicGames.MsBuild.csproj".
+20>------ Rebuild All started: Project: EpicGames.Build, Configuration: Development Any CPU ------
+19>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Managed\ManagedWorkspace.cs(961,27,961,66): warning CA2017: Number of parameters supplied in the logging message template do not match the number of named placeholders (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2017)
+19>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Managed\ManagedWorkspace.cs(2034,6,2034,65): warning CA1849: 'FileReference.WriteAllBytes(FileReference, byte[])' synchronously blocks. Await 'FileReference.WriteAllBytesAsync(FileReference, byte[], CancellationToken)' instead. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1849)
+20>EpicGames.Build -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Build\bin\Development\net6.0\EpicGames.Build.dll
+21>------ Rebuild All started: Project: EpicGames.UHT, Configuration: Development Any CPU ------
+19>EpicGames.Perforce.Managed -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Managed\bin\Development\net6.0\EpicGames.Perforce.Managed.dll
+19>Done building project "EpicGames.Perforce.Managed.csproj".
+22>------ Rebuild All started: Project: EpicGames.Perforce.Fixture, Configuration: Development Any CPU ------
+21>EpicGames.UHT -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.UHT\bin\Development\net6.0\EpicGames.UHT.dll
+23>------ Rebuild All started: Project: UnrealBuildTool, Configuration: Development Any CPU ------
+22>EpicGames.Perforce.Fixture -> C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Fixture\bin\Development\net6.0\EpicGames.Perforce.Fixture.dll
+23>UnrealBuildTool -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll
+24>------ Rebuild All started: Project: UE5Rules, Configuration: Development Any CPU ------
+25>------ Rebuild All started: Project: AutomationUtils.Automation, Configuration: Development Any CPU ------
+26>------ Rebuild All started: Project: AutomationTool, Configuration: Development Any CPU ------
+27>------ Rebuild All started: Project: RoadTripGame, Configuration: Development_Editor x64 ------
+27>Using bundled DotNet SDK version: 6.0.302
+27>Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" RoadTripGameEditor Win64 Development -Project="C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\RoadTripGame.uproject" -WaitMutex -FromMsBuild -Rebuild
+27>Log file: C:\Users\michael.joy\AppData\Local\UnrealBuildTool\Log.txt
+27>Cleaning RoadTripGameEditor binaries...
+26>AutomationTool -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationTool.dll
+25>AutomationUtils.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationUtils\AutomationUtils.Automation.dll
+28>------ Rebuild All started: Project: SteamDeck.Automation, Configuration: Development Any CPU ------
+29>------ Rebuild All started: Project: Localization.Automation, Configuration: Development Any CPU ------
+30>------ Rebuild All started: Project: BuildGraph.Automation, Configuration: Development Any CPU ------
+31>------ Rebuild All started: Project: Apple.Automation, Configuration: Development Any CPU ------
+31>Apple.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Apple\Apple.Automation.dll
+32>------ Rebuild All started: Project: Mac.Automation, Configuration: Development Any CPU ------
+33>------ Rebuild All started: Project: IOS.Automation, Configuration: Development Any CPU ------
+29>Localization.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Localization\Localization.Automation.dll
+34>------ Rebuild All started: Project: XLocLocalization.Automation, Configuration: Development Any CPU ------
+35>------ Rebuild All started: Project: SmartlingLocalization.Automation, Configuration: Development Any CPU ------
+36>------ Rebuild All started: Project: AutomationScripts.Automation, Configuration: Development Any CPU ------
+37>------ Rebuild All started: Project: OneSkyLocalization.Automation, Configuration: Development Any CPU ------
+38>------ Rebuild All started: Project: CrowdinLocalization.Automation, Configuration: Development Any CPU ------
+28>SteamDeck.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\SteamDeck\SteamDeck.Automation.dll
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\Windows\VisualStudioDTE\VisualStudioDTE.Build.cs(55,26,55,140): warning CA1416: This call site is reachable on all platforms. 'Registry.GetValue(string, string?, object?)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Source\VisualStudioCodeSourceCodeAccess\VisualStudioCodeSourceCodeAccess.Build.cs(42,77,42,100): warning CA1416: This call site is reachable on all platforms. 'RegistryView.Registry32' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Source\VisualStudioCodeSourceCodeAccess\VisualStudioCodeSourceCodeAccess.Build.cs(42,51,42,75): warning CA1416: This call site is reachable on all platforms. 'RegistryHive.ClassesRoot' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Source\VisualStudioCodeSourceCodeAccess\VisualStudioCodeSourceCodeAccess.Build.cs(42,27,42,101): warning CA1416: This call site is reachable on all platforms. 'RegistryKey.OpenBaseKey(RegistryHive, RegistryView)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Source\VisualStudioCodeSourceCodeAccess\VisualStudioCodeSourceCodeAccess.Build.cs(42,27,42,120): warning CA1416: This call site is reachable on all platforms. 'RegistryKey.OpenSubKey(string)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\NVIDIA\Rivermax\RivermaxLib.build.cs(17,33,17,142): warning CA1416: This call site is reachable on all platforms. 'Registry.GetValue(string, string?, object?)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\Windows\XInput\XInput.Build.cs(27,10,27,92): warning CA1416: This call site is reachable on all platforms. 'WindowsExports.TryGetWindowsSdkDir(string, out Version?, out DirectoryReference?)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+39>------ Rebuild All started: Project: Linux.Automation, Configuration: Development Any CPU ------
+24>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Core\Core.Build.cs(211,36,211,146): warning CA1416: This call site is reachable on all platforms. 'Registry.GetValue(string, string?, object?)' is only supported on: 'windows'. (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1416)
+24>UE5Rules -> C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5Rules\bin\Development\UE5Rules.dll
+24>Done building project "UE5Rules.csproj".
+40>------ Rebuild All started: Project: UE5ProgramRules, Configuration: Development Any CPU ------
+40>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Native\DotNetPerforceLib.Build.cs(5,14,5,31): warning CA1050: Declare types in namespaces (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050)
+40>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Perforce.Native\DotNetPerforceLib.Target.cs(5,14,5,37): warning CA1050: Declare types in namespaces (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050)
+34>XLocLocalization.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\XLocLocalization\XLocLocalization.Automation.dll
+32>Mac.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Mac\Mac.Automation.dll
+40>UE5ProgramRules -> C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRulesProjects\UE5ProgramRules\bin\Development\UE5ProgramRules.dll
+39>Linux.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Linux\Linux.Automation.dll
+30>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\BuildGraph\BgScriptReader.cs(1640,37,1640,42): error CS8604: Possible null reference argument for parameter 'other' in 'void HashSet<string>.UnionWith(IEnumerable<string> other)'.
+30>Done building project "BuildGraph.Automation.csproj" -- FAILED.
+40>Done building project "UE5ProgramRules.csproj".
+41>------ Rebuild All started: Project: RoadTripGameModuleRules, Configuration: Development Any CPU ------
+42>------ Rebuild All started: Project: Win.Automation, Configuration: Development Any CPU ------
+35>SmartlingLocalization.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\SmartlingLocalization\SmartlingLocalization.Automation.dll
+37>OneSkyLocalization.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\OneSkyLocalization\OneSkyLocalization.Automation.dll
+33>IOS.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\IOS\IOS.Automation.dll
+43>------ Rebuild All started: Project: TVOS.Automation, Configuration: Development Any CPU ------
+36>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Scripts\CheckForHacks.cs(87,26,87,45): error CA2017: Number of parameters supplied in the logging message template do not match the number of named placeholders (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2017)
+36>Done building project "AutomationScripts.Automation.csproj" -- FAILED.
+44>------ Rebuild All started: Project: Android.Automation, Configuration: Development Any CPU ------
+27>Using 'git status' to determine working set for adaptive non-unity build (C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame).
+41>RoadTripGameModuleRules -> C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\BuildRulesProjects\RoadTripGameModuleRules\bin\Development\RoadTripGameModuleRules.dll
+27>Creating makefile for RoadTripGameEditor (no existing makefile)
+38>CrowdinLocalization.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\CrowdinLocalization\CrowdinLocalization.Automation.dll
+43>TVOS.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\TVOS\TVOS.Automation.dll
+42>Win.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Windows\Win.Automation.dll
+45>------ Rebuild All started: Project: CookedEditor.Automation, Configuration: Development Any CPU ------
+44>Android.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Android\Android.Automation.dll
+46>------ Rebuild All started: Project: Gauntlet.Automation, Configuration: Development Any CPU ------
+27>Parsing headers for RoadTripGameEditor
+27>  Running Internal UnrealHeaderTool C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\RoadTripGame.uproject C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\Win64\RoadTripGameEditor\Development\RoadTripGameEditor.uhtmanifest -WarningsAsErrors -installed
+46>Gauntlet.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Gauntlet\Gauntlet.Automation.dll
+47>------ Rebuild All started: Project: Turnkey.Automation, Configuration: Development Any CPU ------
+48>------ Rebuild All started: Project: LowLevelTests.Automation, Configuration: Development Any CPU ------
+45>CookedEditor.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\CookedEditor\CookedEditor.Automation.dll
+48>LowLevelTests.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\LowLevelTests\LowLevelTests.Automation.dll
+27>Total of 0 written
+27>Reflection code generated for RoadTripGameEditor in 1.6392206 seconds
+47>Turnkey.Automation -> C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Turnkey\Turnkey.Automation.dll
+27>Building RoadTripGameEditor...
+27>Using Visual Studio 2022 14.36.32546 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+27>[Adaptive Build] Excluded from RoadTripGame unity file: MainGameInstance.cpp
+27>Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+27>  Executing up to 8 processes, one per physical core
+27>------ Building 9 action(s) started ------
+27>[1/9] Resource Default.rc2
+27>[2/9] Compile [x64] SharedPCH.Engine.Cpp20.cpp
+27>[3/9] Compile [x64] RoadTripGame.cpp
+27>[4/9] Compile [x64] RoadTripGame.init.gen.cpp
+27>[5/9] Compile [x64] MainGameInstance.gen.cpp
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(34): warning C4263: 'void UMainGameInstance::JoinSession(void)': member function does not override any base class virtual member function
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(35): warning C4264: 'bool UGameInstance::JoinSession(ULocalPlayer *,const FOnlineSessionSearchResult &)': no override available for virtual member function from base 'UGameInstance'; function is hidden
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Classes\Engine\GameInstance.h(311): note: see declaration of 'UGameInstance::JoinSession'
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Public\TimerManager.h(18): note: see declaration of 'UGameInstance'
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(35): warning C4264: 'bool UGameInstance::JoinSession(ULocalPlayer *,int32)': no override available for virtual member function from base 'UGameInstance'; function is hidden
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Classes\Engine\GameInstance.h(310): note: see declaration of 'UGameInstance::JoinSession'
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Public\TimerManager.h(18): note: see declaration of 'UGameInstance'
+27>[6/9] Compile [x64] MainGameInstance.cpp
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(34): warning C4263: 'void UMainGameInstance::JoinSession(void)': member function does not override any base class virtual member function
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(35): warning C4264: 'bool UGameInstance::JoinSession(ULocalPlayer *,const FOnlineSessionSearchResult &)': no override available for virtual member function from base 'UGameInstance'; function is hidden
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Classes\Engine\GameInstance.h(311): note: see declaration of 'UGameInstance::JoinSession'
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Public\TimerManager.h(18): note: see declaration of 'UGameInstance'
+27>C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Source\RoadTripGame\Public\MainGameInstance.h(35): warning C4264: 'bool UGameInstance::JoinSession(ULocalPlayer *,int32)': no override available for virtual member function from base 'UGameInstance'; function is hidden
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Classes\Engine\GameInstance.h(310): note: see declaration of 'UGameInstance::JoinSession'
+27>C:\Program Files\Epic Games\UE_5.3\Engine\Source\Runtime\Engine\Public\TimerManager.h(18): note: see declaration of 'UGameInstance'
+27>[7/9] Link [x64] UnrealEditor-RoadTripGame.lib
+27>   Creating library C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadTripGame\UnrealEditor-RoadTripGame.lib and object C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadTripGame\UnrealEditor-RoadTripGame.exp
+27>[8/9] Link [x64] UnrealEditor-RoadTripGame.dll
+27>   Creating library C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadTripGame\UnrealEditor-RoadTripGame.sup.lib and object C:\Users\michael.joy\Games\Unreal\road-trip-game\RoadTripGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadTripGame\UnrealEditor-RoadTripGame.sup.exp
+27>[9/9] WriteMetadata RoadTripGameEditor.target
+27>Total time in Parallel executor: 41.12 seconds
+27>Total execution time: 52.62 seconds
+27>Done building project "RoadTripGame.vcxproj".
+========== Rebuild All: 45 succeeded, 2 failed, 1 skipped ==========
+========== Rebuild completed at 8:47 AM and took 01:04.816 minutes ==========

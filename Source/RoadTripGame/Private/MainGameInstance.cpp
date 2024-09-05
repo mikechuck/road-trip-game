@@ -24,12 +24,12 @@ void UMainGameInstance::Init()
 
 void UMainGameInstance::OnCreateSessionComplete(FName ServerName, bool Succeeded)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Create session completed: %d"), Succeeded);
+	//UE_LOG(LogTemp, Warning, TEXT("Create session completed: %d"), Succeeded);
 }
 
 void UMainGameInstance::CreateSession()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Creating session from Game Instance"));
+	//UE_LOG(LogTemp, Warning, TEXT("Creating session from Game Instance"));
 
 	FOnlineSessionSettings SessionSettings;
 	SessionSettings.bAllowJoinInProgress = true;
@@ -42,6 +42,6 @@ void UMainGameInstance::CreateSession()
 
 void UMainGameInstance::JoinSession()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Joining session from Game Instance"));
+	//UE_LOG(LogTemp, Warning, TEXT("Joining session from Game Instance"));
 
 }
