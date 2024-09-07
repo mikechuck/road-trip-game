@@ -7,6 +7,7 @@
 #include "Interfaces/OnlineSessionInterface.h"
 #include "OnlineSubsystem.h"
 #include "OnlineSessionSettings.h"
+#include "Online/OnlineSessionNames.h"
 #include "MainGameInstance.generated.h"
 
 /**
@@ -23,9 +24,13 @@ public:
 protected:
 	IOnlineSessionPtr SessionInterface;
 
+	TSharedPtr<FOnlineSessionSearch> SessionSearch;
+
 	virtual void Init() override;
 
 	virtual void OnCreateSessionComplete(FName ServerName, bool Succeeded);
+	virtual void OnFindSessionsComplete(bool Succeeded);
+	virtual void OnJoinSessionComplete(FName SessionName, EOnJoinSessionCompleteResult::Type Result);
 
 	UFUNCTION(BlueprintCallable)
 	void CreateSession();
