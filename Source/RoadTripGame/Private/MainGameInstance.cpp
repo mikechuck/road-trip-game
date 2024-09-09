@@ -73,9 +73,19 @@ void UMainGameInstance::CreateSession()
 	FOnlineSessionSettings SessionSettings;
 	SessionSettings.bAllowJoinInProgress = true;
 	SessionSettings.bIsDedicated = false;
-	SessionSettings.bIsLANMatch = true;
 	SessionSettings.bShouldAdvertise = true;
+	SessionSettings.bUseLobbiesIfAvailable = true;
 	SessionSettings.NumPublicConnections = 5;
+
+	if (IOnlineSubsystem::Get()->GetSubsystemName() != "NULL")
+	{
+		SessionSettings.bIsLANMatch = false;
+	}
+	else
+	{
+		SessionSettings.bIsLANMatch = true;
+	}
+
 	SessionInterface->CreateSession(0, FName("My Session"), SessionSettings);
 }
 
@@ -84,8 +94,18 @@ void UMainGameInstance::JoinSession()
 	UE_LOG(LogTemp, Warning, TEXT("Joining session from Game Instance"));
 
 	SessionSearch = MakeShareable(new FOnlineSessionSearch());
-	SessionSearch->bIsLanQuery = true;
+	SessionSearch->bIsLanQuery = false;
 	SessionSearch->MaxSearchResults = 10000;
 	SessionSearch->QuerySettings.Set(SEARCH_PRESENCE, true, EOnlineComparisonOp::Equals);
+	
+	if (IOnlineSubsystem::Get()->GetSubsystemName() != "NULL")
+	{
+		SessionSearch->bIsLanQuery = false;
+	}
+	else
+	{
+		SessionSearch->bIsLanQuery = true;
+	}
+	
 	SessionInterface->FindSessions(0, SessionSearch.ToSharedRef());
 }
