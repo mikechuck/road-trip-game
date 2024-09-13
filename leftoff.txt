@@ -1,3 +1,28 @@
 Leftoff:
 
-- linking the steam_api dll file to my solution (steamworks api overview guide)
+Milestone 1 (game jam):
+- Make endless road with PCG
+	- turns
+	- pull-off spots
+	- wheels on side of road
+- Add trees along road as well
+- make basic pickup truck and wheels in blender
+- create wheel system:
+	- can pick up wheels
+		- Butons: inspect (show status of wheels), drop, attach, throw
+	- can attach wheels to truck
+	- can detach wheels from truck
+- Drive truck
+	- possess truck
+	- remove player model, no need to show it (first person view)
+	- get out of truck
+	- UI will show:
+		- Gas
+		- speed
+		- status of each tire?
+- Player hud:
+	- distance from spawn (miles)
+
+Milestone 2:
+- add sleepiness meter
+- Can pull out tent (basic lean-to), place on ground, interact to "sleep" (fade out, fade in)
