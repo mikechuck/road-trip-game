@@ -1,4 +1,5 @@
 Leftoff:
+- cahracter movement broke. Need to probably re-add it somehow
 
 Milestone 1 (game jam):
 - Make endless road with PCG
