@@ -1,5 +1,5 @@
 Leftoff:
-- cahracter movement broke. Need to probably re-add it somehow
+- from game mode (server only), multicast to all client GameInstances. Call the "LoadLevelGameplayInstance(Vector3 spawnCoords)
 
 Milestone 1 (game jam):
 - Make endless road with PCG
@@ -27,3 +27,7 @@ Milestone 1 (game jam):
 Milestone 2:
 - add sleepiness meter
 - Can pull out tent (basic lean-to), place on ground, interact to "sleep" (fade out, fade in)
+
+
+
+35000.0
