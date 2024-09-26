@@ -1,5 +1,8 @@
 Leftoff:
-- from game mode (server only), multicast to all client GameInstances. Call the "LoadLevelGameplayInstance(Vector3 spawnCoords)
+- when spawning new chunk:
+	- game mode chooses random location for middle spline point (within bounds)
+	- broadcast to spawn chunk
+	- once level spawns, spline bp will requests coord from game mode
 
 Milestone 1 (game jam):
 - Make endless road with PCG
