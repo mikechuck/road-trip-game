@@ -1,6 +1,7 @@
 Leftoff:
-- make sure tire replicates even after it's been added as a child of the player characer.
-- add input flow to check if holding and aiming, say "(f) to attach tire" and attach to car socket
+- finish dropping item
+- check "attach" and "drop" message hierarchy
+- start "attach wheel"
 
 Wheels
 	- ray trace to interact with wheel. Show HUD ui on hit
