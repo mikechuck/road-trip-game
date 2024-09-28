@@ -1,8 +1,43 @@
 Leftoff:
-- when spawning new chunk:
-	- game mode chooses random location for middle spline point (within bounds)
-	- broadcast to spawn chunk
-	- once level spawns, spline bp will requests coord from game mode
+- make sure tire replicates even after it's been added as a child of the player characer.
+- add input flow to check if holding and aiming, say "(f) to attach tire" and attach to car socket
+
+Wheels
+	- ray trace to interact with wheel. Show HUD ui on hit
+	- add pickup input actions
+	- add socket for picked up item
+	- add item to socket when picked up
+	- and input to putting down (just releases from socket and falls)
+	- add socket to truck for each wheel well
+	- when interact hits this wheel well (collider) and is holding wheel, can press button to attach wheel to truck socket instead
+	- Be able to "take off" wheel 
+	- when wheel is on truck and looking at it, show percentage remaining of wheel power
+	- test to make sure you can carry wheels in bed
+
+Truck:
+	- do all possession interact logic
+		- add cameras for passengers too (up to 4 people total)
+	- figure out spinning wheels when moving
+		- fake it with code, or add sticky material? need to lock 2/3 axes
+	- add driving inputs (forward, turn, stop, reverse)
+	- add "get out" inputs
+
+HUD
+	- Add distance counter to game mode (one for all players)
+	- set to distance from spawn
+	- show in top corner
+	- show "number of wheels used" 
+
+Wheel wear and tear:
+	- keep track of distance gone with wheel attached to truck
+	- max it out at a certain number
+	- Keep track of this number in GameMode (game instance?)
+	- show this number in HUD
+
+Game logic:
+	- add a new wheel every other chunk
+		- add bp to stream level that checks game mode chunk value, if even, spawn a wheel in random location
+	- Maybe make more sporatic so players need to collect wheels in truck bed
 
 Milestone 1 (game jam):
 - Make endless road with PCG
@@ -34,3 +69,6 @@ Milestone 2:
 
 
 35000.0
+
+spline 2: (X=25000.000000,Y=0.000000,Z=0.000000)
+spline 1: (X=51000.000000,Y=0.000000,Z=0.000000)
