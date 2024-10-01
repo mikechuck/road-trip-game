@@ -1,7 +1,8 @@
 Leftoff:
-- finish dropping item
-- check "attach" and "drop" message hierarchy
-- start "attach wheel"
+- finish interact messaging for driver in car
+	- finish "exit vehicle" message as well as actual action
+- start on passengers getting into back of truck
+- start on actual truck controls from driver
 
 Wheels
 	- ray trace to interact with wheel. Show HUD ui on hit
