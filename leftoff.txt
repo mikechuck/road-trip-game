@@ -1,8 +1,12 @@
 Leftoff:
-- finish interact messaging for driver in car
-	- finish "exit vehicle" message as well as actual action
-- start on passengers getting into back of truck
-- start on actual truck controls from driver
+- Player chatacter falls through the ground after entering truck, even after exiting
+- create passenger getting in truck cab flow (UI as well as interact)
+- Fix wheels not interacting with landscape once attached to truck
+	- maybe just increse collider scale when wheel is on. Maybe add a collider to wheel bp itself?
+- continue on truck moving
+	- stright, turn, reverse
+	- Wheels spin depending on speed
+	- wheels turn depending on turn value
 
 Wheels
 	- ray trace to interact with wheel. Show HUD ui on hit
