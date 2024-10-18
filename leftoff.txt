@@ -1,12 +1,39 @@
 Leftoff:
-- Player chatacter falls through the ground after entering truck, even after exiting
 - create passenger getting in truck cab flow (UI as well as interact)
-- Fix wheels not interacting with landscape once attached to truck
-	- maybe just increse collider scale when wheel is on. Maybe add a collider to wheel bp itself?
 - continue on truck moving
 	- stright, turn, reverse
 	- Wheels spin depending on speed
 	- wheels turn depending on turn value
+
+BP_Object_Base
+- isInteractObject
+	- indicates whether we show UI when being looked at OR held
+- lookingInteractTextMap <string, InteractAction>
+	- list of actor names (i.e. BP_Wheel) that map to InteractAction ({ InteractText: string, InteractAction: Function?})
+- holdingInteractTextMap
+	- list of actor names (i.e. BP_Wheel) that map to InteractAction ({ InteractText: string, InteractAction: Function?})
+
+player looks at object:
+- is object has IsInteractObject == true, continue
+- ObjectBase.GetInteractText(actorNameHolding ?? null)
+	- function will take actor name, parse map, return text
+	- ex: wheel weel takes bp_wheel and returns "Attach Wheel"
+
+player not looking at object:
+- player controller has map for "bp name -> object name"
+- IsHoldingObject: show "drop " + mapped object name
+- if not mapped, do nothing
+
+player interacts with object (empty hand):
+- each INSTANCE of interact object will inherit RunInteractAction(playerPawn)
+- will be custom function that will do things like attach to player, etc
+
+player interacts with object (holding object):
+- each instance of interact object will inherit RunInteractActionOnItem(playerPawn, heldObjectActor)
+- WILL ONLY perform action if held item is part of interact map
+- will be custom functionality like "if incoming held object is bp_wheel, do this"
+
+
 
 Wheels
 	- ray trace to interact with wheel. Show HUD ui on hit
@@ -27,6 +54,7 @@ Truck:
 		- fake it with code, or add sticky material? need to lock 2/3 axes
 	- add driving inputs (forward, turn, stop, reverse)
 	- add "get out" inputs
+	- add physicshandlecomponent->lineardampening when attach wheel so it doesn't move so far (reset after half second). Might need c++ for this....
 
 HUD
 	- Add distance counter to game mode (one for all players)
